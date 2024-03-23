@@ -63,3 +63,23 @@
   font-weight: 400;
   margin-bottom: 0.25rem;
 }
+
+footer {
+  padding: 2rem 0 4rem 0;
+}
+
+footer .container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+footer a {
+  color: #f5eee7;
+}
+
+.dark footer,
+.dark footer a {
+  color: #18191a;
+}
