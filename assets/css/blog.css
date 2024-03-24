@@ -38,6 +38,10 @@
   text-align: center;
 }
 
+.dark .no-posts {
+  color: #18191a;
+}
+
 .blog-posts {
   width: 800px;
   display: flex;
